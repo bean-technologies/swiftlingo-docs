@@ -14,7 +14,8 @@ Wordcount is calculated with two factors:
 1. The number of words in your original site content
 2. The number of languages you're translating into
 
-For example, if your website has 6,000 words, and you're translating your content into three languages, you need a monthly quota of at least `6,000 words * 3 translation languages = 24,000 words`.
+> [!NOTE]
+> For example, if your website has 6,000 words, and you're translating your content into three languages, you need a monthly quota of at least `6,000 words * 3 translation languages = 24,000 words`.
 
 ## Monthly quota
 
